@@ -1,5 +1,5 @@
 {% set name = "napari-workflows" %}
-{% set version = "0.2.3" %}
+{% set version = "0.2.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-workflows-{{ version }}.tar.gz
-  sha256: 613ff6e6cec9bf9bc29c802ba3491092a207407ea46b7d993f25e120802e9646
+  sha256: 1074781df359a35e51cd964385201ffe4b958e898195ef9d73a30ec8812c8df8
 
 build:
   noarch: python
