@@ -1,11 +1,11 @@
-About napari-workflows
-======================
+About napari-workflows-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-workflows-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/haesleinhuepf/napari-workflows
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-workflows-feedstock/blob/main/LICENSE.txt)
 
 Summary: Data structures for managing image processing workflows in napari
 
